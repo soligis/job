@@ -1,0 +1,328 @@
+{
+    "api": "mwp.darwin.multiget",
+    "v": "3",
+    "ret": "SUCCESS",
+    "data": {
+      "128033": {
+        "list": [
+          {
+            "img": "https://s10.mogucdn.com/mlcdn/c45406/200816_283j1a2bi7fcgdffi62kadbj31j60_710x750.png",
+            "link": "",
+            "_material_end_time": 1597852799,
+            "acm": "3.mce.1_10_1pitg.128033.0.2eqsps86wfYVk.pos_0-m_595366-sd_119",
+            "_material_start_time": 1597766400,
+            "_system_record_entry_id": "595366"
+          }
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      },
+      "128037": {
+        "list": [
+          
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      },
+      "128036": {
+        "list": [
+          {
+            "link": "https://pc.mogu.com/content/live-list/index.html?acm=3.mce.1_10_1oxly.128036.0.2eqsps86wfYVj.pos_0-m_581623-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oxly.128036.0.2eqsps86wfYVj.pos_0-m_581623-sd_119",
+            "title": "直播入口",
+            "image": "https://s10.mogucdn.com/mlcdn/c45406/190520_1bag70e8cjfdj807k4kbcgg095lia_220x320.gif",
+            "_material_start_time": 1592496000,
+            "_system_record_entry_id": "581623"
+          }
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      },
+      "128391": {
+        "list": [
+          {
+            "link": "https://market.mogu.com?acm=3.mce.1_10_1oxmi.128391.0.2eqsps86wfYVn.pos_0-m_581633-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oxmi.128391.0.2eqsps86wfYVn.pos_0-m_581633-sd_119",
+            "image": "https://s10.mogucdn.com/mlcdn/c45406/190906_1lf4bh8h7aeaii592edlh9fd6cf18_1420x1113.gif",
+            "_material_start_time": 1592496000,
+            "_system_record_entry_id": "581633"
+          }
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      },
+      "128038": {
+        "list": [
+          {
+            "link": "https://list.mogu.com/book/clothing/50240?acm=3.mce.1_10_1oyh0.128038.0.2eqsps86wfYVl.pos_0-m_582182-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyh0.128038.0.2eqsps86wfYVl.pos_0-m_582182-sd_119",
+            "cateName": "上衣",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200520_58gf1d574l057k8jkcdheja65a2e8_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "上衣",
+            "_system_record_entry_id": "582182"
+          },
+          {
+            "link": "https://list.mogu.com/book/skirt/50004?acm=3.mce.1_10_1oyh2.128038.0.2eqsps86wfYVm.pos_1-m_582183-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyh2.128038.0.2eqsps86wfYVm.pos_1-m_582183-sd_119",
+            "cateName": "裙子",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_3k62ck469f3j35afjd7j746ge9d31_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "裙子",
+            "_system_record_entry_id": "582183"
+          },
+          {
+            "link": "https://list.mogu.com/book/trousers/50020?acm=3.mce.1_10_1oyh4.128038.0.2eqsps86wfYVo.pos_2-m_582184-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyh4.128038.0.2eqsps86wfYVo.pos_2-m_582184-sd_119",
+            "cateName": "裤子",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/190611_14e56ajh2019d4k4ci8693b7k423j_224x224.jpg",
+            "_material_start_time": 1592496000,
+            "cateDesc": "裤子",
+            "_system_record_entry_id": "582184"
+          },
+          {
+            "link": "https://list.mogu.com/book/clothing/50243?acm=3.mce.1_10_1oyh6.128038.0.2eqsps86wfYVp.pos_3-m_582185-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyh6.128038.0.2eqsps86wfYVp.pos_3-m_582185-sd_119",
+            "cateName": "套装",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200518_1795dc72k8l922516j5fga0la40k6_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "套装",
+            "_system_record_entry_id": "582185"
+          },
+          {
+            "link": "https://list.mogu.com/book/shoes/50330?acm=3.mce.1_10_1oyh8.128038.0.2eqsps86wfYVq.pos_4-m_582186-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyh8.128038.0.2eqsps86wfYVq.pos_4-m_582186-sd_119",
+            "cateName": "女鞋",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_4lka19gk484c6eh15f4lebc31326b_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "女鞋",
+            "_system_record_entry_id": "582186"
+          },
+          {
+            "link": "https://list.mogu.com/book/bags/50675?acm=3.mce.1_10_1oyha.128038.0.2eqsps86wfYVr.pos_5-m_582187-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyha.128038.0.2eqsps86wfYVr.pos_5-m_582187-sd_119",
+            "cateName": "包包",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_6f03f5511fl8k9ccbh24jh956ld4c_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "包包",
+            "_system_record_entry_id": "582187"
+          },
+          {
+            "link": "https://list.mogu.com/book/boyfriend/51716?acm=3.mce.1_10_1oyhc.128038.0.2eqsps86wfYVs.pos_6-m_582188-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyhc.128038.0.2eqsps86wfYVs.pos_6-m_582188-sd_119",
+            "cateName": "男装",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/190509_524f84905d4c13i4g331ca5hbde70_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "男装",
+            "_system_record_entry_id": "582188"
+          },
+          {
+            "link": "https://list.mogu.com/book/boyfriend/20003470?acm=3.mce.1_10_1oyhe.128038.0.2eqsps86wfYVt.pos_7-m_582189-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyhe.128038.0.2eqsps86wfYVt.pos_7-m_582189-sd_119",
+            "cateName": "男鞋",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_86i0e6f5550gl94d8fh8j824fcj9h_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "男鞋",
+            "_system_record_entry_id": "582189"
+          },
+          {
+            "link": "https://list.mogu.com/book/neiyi/50025?acm=3.mce.1_10_1oyhg.128038.0.2eqsps86wfYVu.pos_8-m_582190-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyhg.128038.0.2eqsps86wfYVu.pos_8-m_582190-sd_119",
+            "cateName": "内衣",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_39cc76l5af0ajdbj5e2hifhk4234f_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "内衣",
+            "_system_record_entry_id": "582190"
+          },
+          {
+            "link": "https://list.mogu.com/book/baby/20000602?acm=3.mce.1_10_1oyhi.128038.0.2eqsps86wfYVv.pos_9-m_582191-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyhi.128038.0.2eqsps86wfYVv.pos_9-m_582191-sd_119",
+            "cateName": "母婴",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_62ki0gjhk1j6j7j1h2d6k7c89dl24_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "母婴",
+            "_system_record_entry_id": "582191"
+          },
+          {
+            "link": "https://list.mogu.com/book/home/51642?acm=3.mce.1_10_1oyhk.128038.0.2eqsps86wfYVw.pos_10-m_582192-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyhk.128038.0.2eqsps86wfYVw.pos_10-m_582192-sd_119",
+            "cateName": "家居",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_27g7f601d0icj1aa21llkgj74kg17_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "家居",
+            "_system_record_entry_id": "582192"
+          },
+          {
+            "link": "https://act.mogu.com/kqpc?acm=3.mce.1_10_1oyhm.128038.0.2eqsps86wfYVx.pos_11-m_582193-sd_119",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyhm.128038.0.2eqsps86wfYVx.pos_11-m_582193-sd_119",
+            "cateName": "快抢",
+            "cateIcon": "https://s10.mogucdn.com/mlcdn/c45406/200309_3ka7843k3169b18fch0kkk5474i3i_224x224.png",
+            "_material_start_time": 1592496000,
+            "cateDesc": "快抢",
+            "_system_record_entry_id": "582193"
+          }
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      },
+      "132494": {
+        "list": [
+          {
+            "color": "#f10808",
+            "link": "https://list.mogu.com/book/clothing/50243?acm=3.mce.1_10_1oyiw.132494.0.2eqsps86wfYYy.pos_0-m_582216-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyiw.132494.0.2eqsps86wfYYy.pos_0-m_582216-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "时尚套装",
+            "_system_record_entry_id": "582216"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/clothing/50045?acm=3.mce.1_10_1oyiy.132494.0.2eqsps86wfYYz.pos_1-m_582217-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyiy.132494.0.2eqsps86wfYYz.pos_1-m_582217-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "连衣裙",
+            "_system_record_entry_id": "582217"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/clothing/50244?acm=3.mce.1_10_1oyj0.132494.0.2eqsps86wfYYA.pos_2-m_582218-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyj0.132494.0.2eqsps86wfYYA.pos_2-m_582218-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "百搭T恤",
+            "_system_record_entry_id": "582218"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/clothing/50249?acm=3.mce.1_10_1oyj2.132494.0.2eqsps86wfYYB.pos_3-m_582219-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyj2.132494.0.2eqsps86wfYYB.pos_3-m_582219-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "人气衬衫",
+            "_system_record_entry_id": "582219"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/clothing/50248?acm=3.mce.1_10_1oyj4.132494.0.2eqsps86wfYYC.pos_4-m_582220-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyj4.132494.0.2eqsps86wfYYC.pos_4-m_582220-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "心机吊带",
+            "_system_record_entry_id": "582220"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/clothing/50214?acm=3.mce.1_10_1oyj6.132494.0.2eqsps86wfYYD.pos_5-m_582221-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyj6.132494.0.2eqsps86wfYYD.pos_5-m_582221-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "休闲裤",
+            "_system_record_entry_id": "582221"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/skirt/50245?acm=3.mce.1_10_1oyj8.132494.0.2eqsps86wfYYE.pos_6-m_582222-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyj8.132494.0.2eqsps86wfYYE.pos_6-m_582222-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "荷叶边雪纺衫",
+            "_system_record_entry_id": "582222"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/trousers/50206?acm=3.mce.1_10_1oyja.132494.0.2eqsps86wfYYF.pos_7-m_582223-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyja.132494.0.2eqsps86wfYYF.pos_7-m_582223-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "牛仔裤",
+            "_system_record_entry_id": "582223"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/skirt/50047?acm=3.mce.1_10_1oyjc.132494.0.2eqsps86wfYYG.pos_8-m_582224-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyjc.132494.0.2eqsps86wfYYG.pos_8-m_582224-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "半身裙",
+            "_system_record_entry_id": "582224"
+          },
+          {
+            "color": "#333333",
+            "link": "https://list.mogu.com/book/shoes/51274?acm=3.mce.1_10_1oyje.132494.0.2eqsps86wfYYH.pos_9-m_582225-sd_119",
+            "icon": "",
+            "_material_end_time": 2147483647,
+            "acm": "3.mce.1_10_1oyje.132494.0.2eqsps86wfYYH.pos_9-m_582225-sd_119",
+            "bgColor": "#f5f5f5",
+            "_material_start_time": 1592496000,
+            "word": "凉鞋",
+            "_system_record_entry_id": "582225"
+          }
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      },
+      "128093": {
+        "list": [
+          
+        ],
+        "isEnd": true,
+        "nextPage": 1,
+        "context": {
+          "currentTime": 1597832004
+        }
+      }
+    },
+    "needHeaderCookie": false
+  }
