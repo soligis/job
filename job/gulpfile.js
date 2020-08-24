@@ -77,6 +77,26 @@ gulp.task("reset-scss",function(){
     .pipe(connect.reload());
     
 })
+gulp.task("shopping-scss",function(){
+    return gulp.src("stylesheet/shopping.scss")
+    .pipe(scss())
+    .pipe(gulp.dest("dist/css"))
+    .pipe(minifycss())
+    .pipe(rename("shopping.min.css"))
+    .pipe(gulp.dest("dist/css"))
+    .pipe(connect.reload());
+    
+})
+gulp.task("list-scss",function(){
+    return gulp.src("stylesheet/list.scss")
+    .pipe(scss())
+    .pipe(gulp.dest("dist/css"))
+    .pipe(minifycss())
+    .pipe(rename("list.min.css"))
+    .pipe(gulp.dest("dist/css"))
+    .pipe(connect.reload());
+    
+})
 gulp.task("bootstrap",function(){
     return gulp.src("stylesheet/bootstrap.css")
     .pipe(gulp.dest("dist/css"))
@@ -87,7 +107,7 @@ gulp.task("bootstrap",function(){
     
 })
 
-gulp.task("build",["copy-html","images","data","scripts","index-scss","mixin-scss","reset-scss","bootstrap"],function(){
+gulp.task("build",["copy-html","images","data","scripts","index-scss","mixin-scss","reset-scss","bootstrap","shopping-scss","list-scss"],function(){
     console.log("项目建立成功");
 })
 
@@ -98,6 +118,8 @@ gulp.task("watch",function(){
     gulp.watch(["*.json","!package.json"],["data"]);
     gulp.watch(["*.js","!gulpfile.js"],["scripts"]);
     gulp.watch("stylesheet/index.scss",["index-scss"]);
+    gulp.watch("stylesheet/shopping.scss",["shopping-scss"]);
+    gulp.watch("stylesheet/list.scss",["list-scss"]);
 
 })
 

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/index.min.css">
+    <link rel="stylesheet" href="./css/list.min.css">
 </head>
 <body>
     <div class="wrap">
@@ -199,44 +199,14 @@
         </div>
 
         <div class="main-wrap">
-            <div class="main-ban"><img src="./images/index/200816_283j1a2bi7fcgdffi62kadbj31j60_710x750.png" alt=""></div>
-            <div class="main-mark">
-                <a href=""></a>
-                <div>
-                    <a href="" style="background-image: url(./images/200520_58gf1d574l057k8jkcdheja65a2e8_224x224.png);">上衣</a>
-                    <a href="" style="background-image: url(./images/200309_3k62ck469f3j35afjd7j746ge9d31_224x224.png);">裙子</a>
-                    <a href="" style="background-image: url(./images/190611_14e56ajh2019d4k4ci8693b7k423j_224x224.jpg);">裤子</a>
-                    <a href="" style="background-image: url(./images/200518_1795dc72k8l922516j5fga0la40k6_224x224.png);">套装</a>
-                    <a href="" style="background-image: url(./images/200309_4lka19gk484c6eh15f4lebc31326b_224x224.png);">女鞋</a>
-                    <a href="" style="background-image: url(./images/200309_6f03f5511fl8k9ccbh24jh956ld4c_224x224.png);">包包</a>
-                    <a href="" style="background-image: url(./images/190509_524f84905d4c13i4g331ca5hbde70_224x224.png);">男装</a>
-                    <a href="" style="background-image: url(./images/200309_86i0e6f5550gl94d8fh8j824fcj9h_224x224.png);">男鞋</a>
-                    <a href="" style="background-image: url(./images/200309_39cc76l5af0ajdbj5e2hifhk4234f_224x224.png);">内衣</a>
-                    <a href="" style="background-image: url(./images/200309_62ki0gjhk1j6j7j1h2d6k7c89dl24_224x224.png);">母婴</a>
-                    <a href="" style="background-image: url(./images/200309_27g7f601d0icj1aa21llkgj74kg17_224x224.png);">家具</a>
-                    <a href="" style="background-image: url(./images/200309_3ka7843k3169b18fch0kkk5474i3i_224x224.png);">快抢</a>
-                </div>
-                <ul>
-                    <a href=""><li>时尚套装</li></a>
-                    <a href=""><li>连衣裙</li></a>
-                    <a href=""><li>百搭T恤</li></a>
-                    <a href=""><li>人气衬衫</li></a>
-                    <a href=""><li>心机吊带</li></a>
-                    <a href=""><li>休闲裤</li></a>
-                    <a href=""><li>荷叶边雪纺衫</li></a>
-                    <a href=""><li>牛仔裤</li></a>
-                    <a href=""><li>半身裙</li></a>
-                    <a href=""><li>凉鞋</li></a>
-                </ul>
-            </div>
-            <div class="main-box1 main-box">
-                
-            </div>
-            <div class="main-box2 main-box"></div>
-            <div class="main-box3 main-box"></div>
-            <div class="main-box4 main-box"></div>
-            <div class="main-box5 main-box"></div>
+            <div class="main-tit"></div>
+            <div class="main-filter"></div>
+            <div class="main"></div>
         </div>
+
+
+
+
 
         <div class="bottom-wrap">
             <div class="bottom">
@@ -307,22 +277,77 @@
             </div>
         </div>
 
-        <div class="top-btn">
-            <img src="./images/181029_5713bhcla2g2lagdcdej7bg47k5hl_36x36.png" alt="">
-            <p>返回顶部</p> 
-        </div>
-
-        <div class="bottom-alert" >
-            <div id="close"><img src="./images/190222_4cdlc92e96i939b0c77ag5k87j7b9_17x17.png" alt=""></div>
-            <p>蘑菇街 总有高手帮你挑></p>
-            <a href="">立即下载</a>
+        <div class="right-nav">
+            <ul>
+                <a href=""><li>首页</li></a>
+                <a href=""><li>优惠券</li></a>
+                <a href=""><li>钱包</li></a>
+                <a href="">
+                    <li>
+                        客户服务
+                        <div class="con-server">
+                            <a href="">消费者服务</a>
+                            <a href="">商家服务</a>
+                            <a href="">规则中心</a>
+                        </div>
+                    </li>
+                </a>
+                <a href="">
+                    <li>
+                        商家后台
+                        <div class="bs-bg">
+                            <a href="">管理后台</a>
+                            <a href="">市场入驻</a>
+                        </div>
+                    </li>
+                </a>
+            </ul>
+            <a href="#" class="top-btn"></a>
         </div>
     </div>
 
 
+
+
+
     <script src="./js/jquery-1.11.3.js"></script>
-    <script src="./js/index.js"></script>
-    
+    <script>
+        $(".aboutUs-box").mouseenter(function(){
+            $(".aboutUs").eq(0).css("display","block")
+        }).mouseleave(function(){
+            $(".aboutUs").eq(0).css("display","none")
+        })
+        $("#res").mouseenter(function(){
+            $(".res-box").eq(0).css("display","block")
+        }).mouseleave(function(){
+            $(".res-box").eq(0).css("display","none")
+        })
+
+
+
+        $(window).scroll(function(){
+            if(Number($(window).scrollTop()) > 133){
+                $(".nav").css({
+                        position:"fixed",
+                        top:0,
+                })
+                $(".rb").css("display","none");
+            }else{
+                $(".nav").css("position","relative");
+                $(".rb").css("display","block");
+            }
+            if(Number($(window).scrollTop()) > 50){
+                $(".top-btn").css("display","block");
+            }else{
+                $(".top-btn").css("display","none");
+            }
+        })
+
+
+        $(".top-btn").click(function(){
+            $(window).scrollTop(0);
+        })
+    </script>
 
 </body>
 </html>
